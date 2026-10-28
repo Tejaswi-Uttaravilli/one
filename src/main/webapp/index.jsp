@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>NexusStore — Modern E‑Commerce</title>
+    <title>devopsShop — Modern E‑Commerce</title>
 
     <!-- Fonts & Icons -->
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
@@ -1130,7 +1130,7 @@
                 </button>
                 <a class="brand" href="#">
                     <em class="fas fa-store-alt"></em>
-                    <span>Nexus<span class="accent">Shop</span></span>
+                    <span>devops<span class="accent">Shop</span></span>
                 </a>
             </div>
 
@@ -1307,7 +1307,7 @@
                 <div class="brand-col">
                     <div class="brand">
                         <i class="fas fa-store-alt"></i>
-                        <span>Nexus<span class="accent">Shop</span></span>
+                        <span>devops<span class="accent">Shop</span></span>
                     </div>
                     <p>Modern e‑commerce demo built with care. Quality products, seamless experience.</p>
                     <div class="socials">
@@ -1345,7 +1345,7 @@
                 </div>
             </div>
             <div class="footer-bottom">
-                &copy; <span id="year"></span> NexusShop. All rights reserved.
+                &copy; <span id="year"></span> devopsShop. All rights reserved.
             </div>
         </div>
     </footer>
@@ -1701,7 +1701,7 @@
             }
         });
 
-        console.log('🚀 NexusShop — user‑friendly e‑commerce demo loaded.');
+        console.log('🚀 devopsShop — user‑friendly e‑commerce demo loaded.');
     </script>
 
 </body>
